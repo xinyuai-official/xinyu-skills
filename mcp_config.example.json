@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "xinyu": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@xinyuai/mcp-server"
+      ],
+      "env": {
+        "XINYU_API_KEY": "xys_live_replace_with_your_key"
+      }
+    }
+  }
+}

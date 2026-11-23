@@ -1,0 +1,6 @@
+{
+  "name": "xinyu-ai",
+  "displayName": "XinYu AI Canvas & Multimodal Studio",
+  "version": "0.1.58",
+  "description": "Generate 4K videos (Seedance 2.5, Kling, Wan), images, and audio, and orchestrate story-canvas nodes via XinYu AI CLI & MCP."
+}
